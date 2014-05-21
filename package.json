@@ -1,0 +1,35 @@
+{
+  "name": "remarked",
+  "version": "0.0.1",
+  "description": "remarked html to markdown",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venil7/reMarked.js.git"
+  },
+  "keywords": [
+    "html",
+    "remarked",
+    "markdown"
+  ],
+  "author": "Art Deineka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/venil7/reMarked.js/issues"
+  },
+  "homepage": "https://github.com/venil7/reMarked.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "matchdep": "~0.3.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "browserify": "~4.1.5",
+    "grunt-browserify": "~2.1.0"
+  }
+}

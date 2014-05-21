@@ -1,0 +1,26 @@
+{
+  "name": "remarked",
+  "main": "/dist/remarked.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/venil7/reMarked.js",
+  "description": "html -> markdown converter",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "markdown",
+    "html"
+  ],
+  "authors": [
+    "leon sorokin",
+    "art deineka"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
